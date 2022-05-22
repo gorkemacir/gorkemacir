@@ -18,10 +18,6 @@
 </h1>
   <br/>
 <div/>
-
-<div align="center">
-<img alt="GIF" src="https://www.pixron.com/assets/img/webdesign.gif" width="500" height="320" />
-<div/>
   
 <div align="left">
   
@@ -35,6 +31,11 @@
 - 📫 How to reach me: gorkemacir234@gmail.com
 <div/>
   
+  <div>
+<img alt="GIF" src="https://www.pixron.com/assets/img/webdesign.gif" width="500" height="320" />
+ <div/>
+    
+    
   ### :hammer_and_wrench: Languages and Tools :
   <div>
   
