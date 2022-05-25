@@ -54,10 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp; 
   </div>
     
-  ## 📫 Connect with me :
-   <div id="badges">
-    
-   <div/>
+
   
   ### 🔥 My Stats :
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gorkemacir?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
