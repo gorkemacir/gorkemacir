@@ -13,8 +13,8 @@
 
   <br>
   <h1>
-  Hi there my name is Görkem
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there my name is Görkem 🤙
+  
 </h1>
   <br/>
 <div/>
