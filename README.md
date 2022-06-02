@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div/>
 
+  
+  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gorkemacir">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,24 +18,29 @@
   <br/>
 <div/>
   
+  
+  
 <div align="left">
   
 ## I'm a Full Stack Developer 🚀
 
 - 🔭 I’m currently working on C#, HTML, CSS and JavaScript
-- 🌱 I’m currently learning .NET Core, React.js😂
-- 👯 I’m looking to collaborate with other FullStack developer 👩‍💻
+- 🌱 I’m currently learning .NET Core, React.js
+- 👯 I’m looking to collaborate with other FullStack developer 
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 
-- ⚡ I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀
+- ⚡ I love to swim 🏊‍♀️, play football 🏈, play basketball 🏀
 - 📫 How to reach me: gorkemacir234@gmail.com
 <div/>
+  
+  
   
  <div>
 <img alt="GIF" src="https://www.pixron.com/assets/img/webdesign.gif" width="500" height="320" />
  <div/>
     
+   
     
-  ### :hammer_and_wrench: Languages and Tools :
+  ### 🛠️ Languages and Tools :
   <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -51,15 +58,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp; 
   </div>
     
-<h3 align="left"> 🔃 Connect with me:</h3>
+   
+   
+<h3 align="left"> 🗂️ Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/gorkemacir" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="gorkemacir" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/gorkemacir234" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="gorkemacir234" height="30" width="30" /></a>  
   
+  
+  
   ### 🔥 My Stats :
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemacir&show_icons=true&theme=radical&locale=en&layout=compact" alt="gorkemacir"  width="40%" /></p>
-  <a href="https://github.com/gorkemacir/">
-    <img width="50%" align="right" alt="Hugo's github stats" src="https://github-readme-stats.vercel.app/api?username=gorkemacir&show_icons=true&hide_border=true" />
- </a>
+ ![Görkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorkemacir&show_icons=true&theme=radical&count_private=true)
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemacir&show_icons=true&theme=radical&locale=en&layout=compact" alt="gorkemacir"  width="40%" /></p>
+ 
  
