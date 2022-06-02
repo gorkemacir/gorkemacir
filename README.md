@@ -57,9 +57,8 @@
 
   
   ### 🔥 My Stats :
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gorkemacir?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
-    <br>
-    <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemacir&theme=tokyonight)
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemacir&show_icons=true&theme=radical&locale=en&layout=compact" alt="gorkemacir"  width="40%" /></p>
+  <a href="https://github.com/gorkemacir/">
+    <img width="50%" align="right" alt="Hugo's github stats" src="https://github-readme-stats.vercel.app/api?username=gorkemacir&show_icons=true&hide_border=true" />
+ </a>
  
