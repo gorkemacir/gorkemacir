@@ -25,7 +25,7 @@
 ## I'm a Full Stack Developer 🚀
 
 - 🔭 I’m currently working on C#, HTML, CSS and JavaScript
-- 🌱 I’m currently learning .NET Core, React.js
+- 🌱 I’m currently learning .NET Core and React.js
 - 👯 I’m looking to collaborate with other FullStack developer 
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 
 - ⚡ I love to swim 🏊‍♀️, play football 🏈, play basketball 🏀
