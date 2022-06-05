@@ -68,7 +68,7 @@
   
   
   
-  ### 🔥 My Stats :
+  ### 🔥 My Stats:
  ![Görkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorkemacir&show_icons=true&theme=radical&count_private=true)
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemacir&show_icons=true&theme=radical&locale=en&layout=compact" alt="gorkemacir"  width="40%" /></p>
  
