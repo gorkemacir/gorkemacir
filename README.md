@@ -28,7 +28,6 @@
 - 🌱 I’m currently learning .NET Core and React.js
 - 👯 I’m looking to collaborate with other FullStack developer 
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 
-- ⚡ I love to swim 🏊‍♀️, play football 🏈, play basketball 🏀
 - 📫 How to reach me: gorkemacir234@gmail.com
 <div/>
   
