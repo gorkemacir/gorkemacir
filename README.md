@@ -22,11 +22,11 @@
   
 <div align="left">
   
-## I'm a Full Stack Developer 🚀
+## I'm a Backend Developer 🚀
 
-- 🔭 I’m currently working on C#, HTML, CSS and JavaScript
-- 🌱 I’m currently learning .NET Core and React.js
-- 👯 I’m looking to collaborate with other FullStack developer 
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Spring
+- 👯 I’m looking to collaborate with other Backend developer 
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 
 - 📫 How to reach me: gorkemacir234@gmail.com
 <div/>
