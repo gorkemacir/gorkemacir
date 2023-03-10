@@ -58,14 +58,6 @@
   </div>
     
    
-   
-<h3 align="left"> 🗂️ Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/gorkemacir" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="gorkemacir" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/gorkemacir234" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="gorkemacir234" height="30" width="30" /></a>  
-  
-  
   
   ### 🔥 My Stats:
  ![Görkem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorkemacir&show_icons=true&theme=radical&count_private=true)
